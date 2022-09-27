@@ -14,9 +14,7 @@
 | 无线网卡 | m.2 NGFF插槽 默认出厂为无 已更换为BCM94360CD |
 |   声卡   |                   ALC 3205                   |
 
-## 参考与致谢
-
-​	**特别感谢**[黑果小兵](https://blog.daliansky.net) 提供了可参考的EFI文件
+![SytemInfo](https://comtechco.top:5541/2022/09/27_SytemInfo.png)
 
 ## 修改的地方
 
@@ -25,3 +23,11 @@
 ​	屏蔽了开机时的RTC校验 Kernel-Quirks-DisableRtcChecksum-ON
 
 ​	完全支持VDA解码器，使用核显辅助独显硬解加速	
+
+## 提醒 请在下图位置更改三码
+
+![PleaseChangePI](https://comtechco.top:5541/2022/09/27_PleaseChangePI.png)
+
+## 参考与致谢
+
+​	**特别感谢**[黑果小兵](https://blog.daliansky.net) 提供了可参考的EFI文件
