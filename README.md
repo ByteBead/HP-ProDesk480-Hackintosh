@@ -14,7 +14,7 @@
 | 无线网卡 | m.2 NGFF插槽 默认出厂为无 已更换为BCM94360CD |
 |   声卡   |                   ALC 3205                   |
 
-![SytemInfo](https://comtechco.top:5541/2022/09/27_SytemInfo.png)
+![SytemInfo](https://nas.comtech.work:5541/2022/09/27_SytemInfo.png)
 
 ## 修改的地方
 
@@ -26,7 +26,7 @@
 
 ## 提醒 请在下图位置更改三码
 
-![PleaseChangePI](https://comtechco.top:5541/2022/09/27_PleaseChangePI.png)
+![PleaseChangePI](https://nas.comtech.work:5541/2022/09/27_PleaseChangePI.png)
 
 ## 参考与致谢
 
